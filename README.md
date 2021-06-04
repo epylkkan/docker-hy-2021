@@ -1,3 +1,8 @@
 # [Course material](https://docker-hy.github.io)
 
-If you have any questions send email jami.kousa@helsinki.fi or send message in course telegram group.
+HY "Docker DevOps 2021" -course material. 
+
+Changes to https://github.com/docker-hy/docker-hy.github.io: 
+
+1) .github/workflows/build.yml updated 
+2) docker-compose.yml created
